@@ -16,5 +16,15 @@ The following is what has been pursued in the course:
     d. ipython is a terminal for data visualization that preceeded Jupyter Notebooks
     e. jupyter notebook: hybrid between interactive shell and editor
 4. Section 16:
-    a. using numpy
-5. Application 2: 
+    a. using numpy to do solve more complicated number based problems
+5. Application 2:
+    a. base layer, marker layer, and polygon layer using folium library
+    b. utilize feature groups to organize the different layers
+    c. folium.Map() creates base layer
+    d. folium.FeatureGroup() creates disparate layers that contain data
+    e. Map.add_child(FeatureGroup) nesting
+    f. use lambda functions to enable styling for polygon layer
+6. Section 18: Fixing Programming Errors
+7. Application 3: Section 19 and 20
+    a. ingest data into a panda dataframe
+    b. manipulate dataframe and plot line/bar/pie graphs/charts using matlibplot
