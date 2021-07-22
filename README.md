@@ -28,3 +28,5 @@ The following is what has been pursued in the course:
 7. Application 3: Section 19 and 20
     a. ingest data into a panda dataframe
     b. manipulate dataframe and plot line/bar/pie graphs/charts using matlibplot
+    c. use the JustPY library to generate charts (python to javascript library) that uses common js highcharts
+    d. convert a panda to load into a js chart and display interactive graphs
