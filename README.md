@@ -30,3 +30,11 @@ The following is what has been pursued in the course:
     b. manipulate dataframe and plot line/bar/pie graphs/charts using matlibplot
     c. use the JustPY library to generate charts (python to javascript library) that uses common js highcharts
     d. convert a panda to load into a js chart and display interactive graphs
+8. Application 4: Python and Flask website
+9. Section 22: Desktop GUI Application
+    a. uses tkinter library
+10. Section 23: Connecting to databases
+    a. sqlite3 is an in application database which may be built-in to Python
+    b. Postgres connectivity and querying
+    c. A small mention of MySQL
+11. Application 5: Desktop App with Database about Books
